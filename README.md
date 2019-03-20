@@ -1,17 +1,21 @@
 # English-Odia
 
 
-This repository contains English (Lang Code: en) to Odia/Oriya (Lang code: or) parallel corpus of phrases.
+This repository is forked from [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia) repository. This repository contains English (Lang Code: en) to Odia/Oriya (Lang code: or) parallel corpus of phrases.  
 There are multiple files based on the source of the data.  
-Combined file: `consolidated_full_corpus.txt`
+Combined file: `consolidated_full_corpus.txt`  
 Sample structure:  
 
 *\<english phrase>||\<odia phrase>*
 
 for example:  
 > urban development planning||ସହରାଞ୍ଚଳ ବିକାଶ ଯୋଜନା  
-> choreographer||ନୃତ୍ୟସଂଯୋଜିକା  
+> choreographer||ନୃତ୍ୟସଂଯୋଜକ
 > Family||ପରିବାର
+
+## Current corpora statistics
+- 3500+ cleaned en-od parallel pairs (growing every weekend)
+- 50,000 uncleaned pairs
 
 ## Referred articles/websites:
 * [Apertium Wiki for Odia language](http://wiki.apertium.org/wiki/Odia)
