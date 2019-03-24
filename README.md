@@ -10,12 +10,11 @@ Sample structure:
 
 for example:  
 > urban development planning||ସହରାଞ୍ଚଳ ବିକାଶ ଯୋଜନା  
-> choreographer||ନୃତ୍ୟସଂଯୋଜକ
 > Family||ପରିବାର
 
 ## Current corpora statistics
-- 3500+ cleaned en-od parallel pairs (growing every weekend)
-- 50,000 uncleaned pairs
+- 3800+ cleaned en-od parallel pairs (growing every weekend)
+- ~50,000 uncleaned pairs
 
 ## Referred articles/websites:
 * [Apertium Wiki for Odia language](http://wiki.apertium.org/wiki/Odia)
