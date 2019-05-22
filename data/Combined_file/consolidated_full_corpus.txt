@@ -3807,3 +3807,22 @@ Publish||ପ୍ରକାଶିତ କର
 Reject||ଅସ୍ଵୀକାର
 Please Insert Date||ଦୟାକରି ତାରିଖ ଭର୍ତ୍ତିକରନ୍ତୁ
 Date is not in a valid format||ତାରିଖ ଗୋଟିଏ ମାନ୍ୟ ଫର୍ମାଟରେ ନାହିଁତାରିଖ ଏକ ମାନ୍ୟ ଫର୍ମାଟରେ ନାହିଁ
+stiff neck||ବେକରେ ରକା 
+sing for the moment||ଏହି ମୁହୂର୍ତ୍ତ ପାଇଁ ଗାଆନ୍ତୁ 
+delivery report||ବିତରଣ ବିବରଣୀ 
+hassle free||ଝାମଲାହୀନ 
+hassle free||ବିନା ଝାମଲା 
+family gathering||ପରିବାର ମେଳି 
+mind blown||ଅତି ଆଶ୍ଚର୍ଯ୍ୟଜନକ 
+always be positive||ସର୍ବଦା ସକାରାତ୍ମକ ରୁହନ୍ତୁ 
+child support||ଶିଶୁ ସାହାରା 
+working conditions||କାମକରିବାର ଅବସ୍ଥା 
+love you very much||ଆପଣଙ୍କୁ ବହୁତ ଭଲ ପାଏ 
+your photo||ଆପଣଙ୍କର ଛବି 
+want to see you||ଆପଣଙ୍କୁ ଦେଖିବାକୁ ଚାହେଁ 
+a trip||ଗୋଟିଏ ଯାତ୍ରା 
+i brought||ମୁଁ ଆଣିଥିଲି 
+positive feedback||ସକାରାତ୍ମକ ପ୍ରତିକ୍ରିୟା  
+tear gas||ଲୁହବୁହା ବାୟୁ 
+buy one mystry box. 1 left||ଗୋଟିଏ ରହସ୍ୟମୟ ବାକ୍ସ କିଣନ୍ତୁ . ଗୋଟିଏ ବଞ୍ଚିଛି 
+bye for now||ବର୍ତ୍ତମାନ ପାଇଁ ବିଦାୟ 
