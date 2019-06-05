@@ -3826,3 +3826,35 @@ positive feedback||ସକାରାତ୍ମକ ପ୍ରତିକ୍ରିୟା
 tear gas||ଲୁହବୁହା ବାୟୁ 
 buy one mystry box. 1 left||ଗୋଟିଏ ରହସ୍ୟମୟ ବାକ୍ସ କିଣନ୍ତୁ . ଗୋଟିଏ ବଞ୍ଚିଛି 
 bye for now||ବର୍ତ୍ତମାନ ପାଇଁ ବିଦାୟ 
+is it correct||ଏହା ଠିକ କି 
+miss independent||ସୁଶ୍ରୀ ସ୍ଵାଧୀନ
+pain||ଯନ୍ତ୍ରଣା 
+date last visa issued||ଶେଷ ଭିସା ଜାରିହେବାର ଦିନ 
+customs declaration||କଷ୍ଟମରେ ଘୋଷଣା 
+lab coat||ପରୀକ୍ଷାଗାର କୋଟ 
+item test||ଜିନିଷ ପରୀକ୍ଷା 
+oil on canvas||କାନଭାସ ଉପରେ ତେଲ 
+web developer||ୱେବ ଡେଭେଲପର 
+business associate||ବ୍ୟବସାୟ ସହଯୋଗୀ 
+field trip||କ୍ଷେତ୍ର ଭ୍ରମଣ 
+come off it||ବାହାରକୁ ଆସିଯାଆନ୍ତୁ 
+blow out||ଲିଭେଇଦିଅନ୍ତୁ 
+it's me and you||ଏହା କେବଳ ତମେ ଏବଂ ମୁଁ 
+get real||ବାସ୍ତବରେ ଆଣନ୍ତୁ 
+niche market||ନିର୍ଦ୍ଧିଷ୍ଟ ବଜାର 
+trace back||ପଛକୁ ପଛ ଯାଞ୍ଚ କରିବା 
+back cover||ପଛ ପରଦା 
+twist and shout||ମୋଡ଼ନ୍ତୁ ଏବଂ ଚିତ୍କାର କରନ୍ତୁ 
+contact email address||ଯୋଗାଯୋଗର ଇମେଲ ଠିକଣା 
+load bearing||ବୋଝ ସମ୍ଭାଳିବା 
+statistical analysis||ପରିସଙ୍ଖ୍ୟାନ ବିଶ୍ଳେଷଣ 
+can afford||ସମର୍ଥ ହେବା 
+!Bang Search Shortcuts||!ବ୍ୟାଙ୍ଗଦ୍ୱାରା ଖୋଜିବାର ସଂକ୍ଷିପ୍ତ ମାର୍ଗ
+$800,000 in privacy donations!||$800,000 ଏକାନ୍ତ ଦାନ!
+%s Billion Searches||%s ଶହ କୋଟି ଥର ଖୋଜାଯାଇଛି
+%s blocked by safe search.||%s ସୁରକ୍ଷିତ ଖୋଜା ଦ୍ୱାରା ବନ୍ଦ କରାଯାଇଥିଲା
+%s in privacy donations!||%s ଏକାନ୍ତ ଦାନ!
+%s km||%s କିମି
+%s mi||%s ମାଇଲ
+%s us.||ଆମକୁ %s
+%s%s%s Billion Searches||%s%s%s ଶହ କୋଟି ଥର ସନ୍ଧାନ
