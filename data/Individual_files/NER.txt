@@ -27,6 +27,13 @@ Dadha||ଦାଢ଼ା
 Kalyanpur||କଲ୍ୟାଣପୁର 
 Barimunda||ବରିମୁଣ୍ଡା 
 Kalarahanga||କଳାରହଙ୍ଗା
+Khurda Road Junction||ଖୋର୍ଦ୍ଧା ରୋଡ଼ ଜଙ୍କ୍ସନ
+Brahmapur||ବ୍ରହ୍ମପୁର
+Visakhapatnam||ବିଶାଖାପଟନମ
+Vijayawada Junction||ବିଜୟୱାଡା ଜଙ୍କ୍ସନ
+Guntur Junction||ଗୁଣ୍ଟୁର ଜଙ୍କ୍ସନ
+Guntakal Junction||ଗୁଣ୍ଟକାଲ ଜଙ୍କ୍ସନ
+Dharmavaram Junction||ଧର୍ମାବରଂ ଜଙ୍କ୍ସନ
 
 --------------------------------
 PERSON NAME:
