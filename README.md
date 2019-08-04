@@ -13,7 +13,7 @@ for example:
 > Family||ପରିବାର
 
 ## Current corpora statistics
-- 3800+ cleaned en-od parallel pairs (growing every weekend)
+- 4400+ cleaned en-or parallel pairs (growing every weekend)
 - ~50,000 uncleaned pairs
 
 ## Referred articles/websites:
