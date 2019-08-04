@@ -29,6 +29,7 @@ for example:
 * [OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 * [TDIL](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1070&lang=en) - Technical strings 52,000 pairs-Data needs to be cleaned
 * [Global Voices](http://casmacat.eu/corpus/global-voices.html) - 328 sentences pairs
+* [Mann ki baat](https://www.narendramodi.in/mann-ki-baat) - 100+ pairs
 
 ## Prospective data corpus
 These are few places where relevant data may be present, however getting the data is not straight forward.
