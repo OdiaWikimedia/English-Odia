@@ -1,4 +1,6 @@
 # English-Odia
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOdiaWikimedia%2FEnglish-Odia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FOdiaWikimedia%2FEnglish-Odia?ref=badge_shield)
+
 
 
 This repository is forked from [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia) repository. This repository contains English (Lang Code: en) to Odia/Oriya (Lang code: or) parallel corpus of phrases.  
@@ -39,3 +41,6 @@ These are few places where relevant data may be present, however getting the dat
 
 ## Contributors
 - [Soumendra Kumar Sahoo](https://www.linkedin.com/in/soumendrakumarsahoo/)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOdiaWikimedia%2FEnglish-Odia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FOdiaWikimedia%2FEnglish-Odia?ref=badge_large)
