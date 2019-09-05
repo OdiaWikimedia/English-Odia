@@ -409,7 +409,7 @@ answer the phone||ଫୋନର ଉତ୍ତର ଦିଅନ୍ତୁ
 remove jelly||ଜେଲି ବାହାର କରିଦିଅନ୍ତୁ 
 what does||କଣ କରେ 
 tag along||ଟ୍ୟାଗ କରନ୍ତୁ
-parts of speech||||ଶବ୍ଦ ଭେଦ
+parts of speech||ଶବ୍ଦ ଭେଦ
 phone book||ଫୋନ ବହି 
 to point out||ଦେଖେଇବାକୁ 
 i have a shower||ମୋର ଗୋଟିଏ ଶାୱର ଅଛି 
@@ -446,3 +446,13 @@ air pollution||ବାୟୁ ପ୍ରଦୂଷଣ
 is that it||ବାସ ଏତିକି 
 seventy six||ଛଅସ୍ତରୀ 
 i am from pakistan||ମୁଁ ପାକିସ୍ଥାନରୁ 
+similar to||ଏକାଭଳି 
+even if saving you sends me to heaven||ଯଦି ବି ଆପଣଙ୍କୁ ରକ୍ଷା କଲେ ମୁଁ ସ୍ୱର୍ଗ ପ୍ରାପ୍ତି ହେବି 
+southern hotel sector||ଦକ୍ଷିଣାତ୍ୟ ହୋଟେଲ ଶିଳ୍ପ 
+are we there yet||ଆମେ ସେଠି ପହଞ୍ଚିଲୁ କି 
+do anything||କିଛି ବି କର 
+day before Yesterday||ଗଲା ପହରଦିନ 
+oh why||ଓହୋ କାହିଁକି
+eat it||ଏହାକୁ ଖାଆନ୍ତୁ 
+call forwarding||କଲ ଫରୱାଡିଙ୍ଗ
+ring finger||ମୁଦି ଆଙ୍ଗୁଠି 
