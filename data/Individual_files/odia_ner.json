@@ -196,6 +196,24 @@
         }
     },
     "person": {
+        "singer": {
+            "bollywood": {
+                "Armaan Malik":"ଅରମାନ୍ ମଲିକ୍",
+                "Arijit Singh":" ଅରିଜିତ୍ ସିଙ୍ଗ୍"
+            }
+        },
+        "actor" : {
+            "hollywood": {
+                "Dwayne Johnson":"ଡ୍ୱେନ୍ ଜନ୍ସନ୍",
+                "Scarlett Johansson":"ସ୍କାରଲେଟ୍ ଜୋହାନ୍ସନ୍",
+                "Benedict Cumberbatch":"ବେନେଡିକ୍ଟ କମବେରବଟ୍ଚ",
+                "Catherine Zeta-Jones":"କାଥେରିନେ ଯେଟ-ଜୋନେସ"
+            },
+            "bollywood": {
+                "Bipasha Basu":"ବିପାଶା ବାସୁ",
+                "R. Madhavan":"ଆର୍. ମାଧବନ"
+            }
+        },
         "politician": {
             "odia": {
                 "Bhagirathi Badajena":"ଭାଗିରଥି ବଡ଼ଜେନା",
@@ -226,29 +244,17 @@
     "tv_series" : {
         "Game of Thrones":"ସିଂହାସନର ଖେଳ "
     },
-    "actor" : {
-        "hollywood": {
-            "Dwayne Johnson":"ଡ୍ୱେନ୍ ଜନ୍ସନ୍",
-            "Scarlett Johansson":"ସ୍କାରଲେଟ୍ ଜୋହାନ୍ସନ୍",
-            "Benedict Cumberbatch":"ବେନେଡିକ୍ଟ କମବେରବଟ୍ଚ",
-            "Catherine Zeta-Jones":"କାଥେରିନେ ଯେଟ-ଜୋନେସ"
-        },
-        "bollywood": {
-            "Bipasha Basu":"ବିପାଶା ବାସୁ",
-            "R. Madhavan":"ଆର୍. ମାଧବନ"
-        }
-    },
-    "singer": {
-        "bollywood": {
-            "Armaan Malik":"ଅରମାନ୍ ମଲିକ୍",
-            "Arijit Singh":" ଅରିଜିତ୍ ସିଙ୍ଗ୍"
-        }
-    },
     "political_party": {
         "india" : {
             "Janta Party": "ଜନତା ପାର୍ଟି",
             "BJD": "ବିଜେଡି",
             "Congress": "କଂଗ୍ରେସ"
+        }
+    },
+    "company": {
+        "india":{
+            "DEN Network": "ଡିଇଏନ ନେଟୱାର୍କ",
+            "IMG Reliance": "ଆଇଏମଜି-ରିଲାଏନ୍ସ"
         }
     }
 }
