@@ -30,7 +30,8 @@ for example:
 * [TDIL](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1070&lang=en) - Technical strings 52,000 pairs-Data needs to be cleaned
 * [Global Voices](http://casmacat.eu/corpus/global-voices.html) - 328 sentences pairs
 * [Mann ki baat](https://www.narendramodi.in/mann-ki-baat) - 1000+ pairs
-* [Twitter:DoctorBabu](https://twitter.com/drgynaec) - Around 100 Botanical terms En-Or paris
+* [Twitter:DoctorBabu](https://twitter.com/drgynaec) - Around 100 Botanical terms En-Or pairs
+* [Rupesh Ranjan Panda](https://github.com/rupeshranjanpanda/odia) - Around 300 generic En-Or pairs
 
 ## Prospective data corpus
 These are few places where relevant data may be present, however getting the data is not straight forward.
