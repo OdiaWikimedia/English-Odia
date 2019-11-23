@@ -1,3 +1,6 @@
+## Important Notice:
+This repository is **not under active development** and it has been merged into its parent repository, [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia).
+
 # English-Odia
 
 
